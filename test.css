@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.first {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.first h2 {
+    color: #207388;
+}
